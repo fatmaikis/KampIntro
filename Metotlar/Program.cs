@@ -38,7 +38,7 @@ namespace Metotlar
                 Console.WriteLine("--------------------------");          
             }
 
-            Console.WriteLine("--------methotlar------------");
+            Console.WriteLine("--------metotlar------------");
 
 
             //instance örneği
@@ -47,8 +47,8 @@ namespace Metotlar
             sepetManager.Ekle(urun2);
 
             sepetManager.Ekle2("armut", "yeşil armut", 12, 8);
-            sepetManager.Ekle2("elma", "yeşil armut", 12, 80);
-            sepetManager.Ekle2("karpuz", "yeşil armut", 12, 5);
+            sepetManager.Ekle2("elma", "yeşil elma", 12, 80);
+            sepetManager.Ekle2("karpuz", "Diyarbakır karpuzu", 12, 5);
 
 
 

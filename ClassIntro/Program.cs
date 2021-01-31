@@ -6,9 +6,7 @@ namespace ClassIntro
     {
         static void Main(string[] args)
         {
-            string adi = "Fatma";
-            int yas = 21;
-
+          
             Kurs kurs1 = new Kurs();
             kurs1.KursAdi = "C#";
             kurs1.Egitmen = "Engin Demiroğ";
